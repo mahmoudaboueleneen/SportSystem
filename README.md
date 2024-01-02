@@ -35,3 +35,15 @@ A web application for managing different sports matches and selling tickets, des
 
 ![Admin](docs/screenshots/admin3.png)
 
+## Technologies Used
+
+- ASP.NET
+- C#
+- Microsoft SQL Server
+- Bootstrap
+- Fontawesome
+
+## Authors
+- [@abdelrahmanAbouelkheir](https://github.com/abdelrahmanAbouelkheir)
+- [@mahmoudaboueleneen](https://github.com/mahmoudaboueleneen)
+- [@Ahmedsherif74](https://github.com/Ahmedsherif74)
