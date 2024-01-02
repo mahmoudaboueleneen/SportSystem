@@ -43,6 +43,14 @@ A web application for managing different sports matches and selling tickets, des
 - Bootstrap
 - Fontawesome
 
+## Getting Started
+
+To get started, clone the repository by running the following command:
+
+```bash
+git clone https://github.com/mahmoudaboueleneen/SportSystem.git
+```
+
 ## Authors
 - [@abdelrahmanAbouelkheir](https://github.com/abdelrahmanAbouelkheir)
 - [@mahmoudaboueleneen](https://github.com/mahmoudaboueleneen)
